@@ -4,7 +4,7 @@ Hi. I'm an experimental physicist at Northrop Grumman working on superconducting
 
 Before Northrop, I spent two years as a postdoc at Argonne National Laboratory and six years at Michigan State University (Ph.D. 2022) developing detector systems and analysis software for nuclear physics experiments at three accelerator facilities.
 
-The repositories below are open-source pieces of that research. They're not a complete picture of my engineering work — most of what I do now is proprietary — but they show the kind of code I write when I have full ownership of an experimental problem end-to-end.
+The repositories below are open-source pieces of that research. They're not a complete picture of my engineering work, as most of what I do now is proprietary, but they do show the kind of code I write when I have full ownership of an experimental problem end-to-end.
 
 ---
 
