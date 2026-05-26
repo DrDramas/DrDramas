@@ -10,11 +10,11 @@ The repositories below are open-source pieces of that research. They're not a co
 
 ### Selected projects
 
+**[gadget1-proton-detector-efficiency-model](https://github.com/DrDramas/gadget1-proton-detector-efficiency-model)** — Parallelized C++ Monte Carlo simulation of β-delayed proton decay in a gaseous proportional counter. This is the detector characterization work that underpins my Phys. Rev. Lett. paper on the ³¹Cl decay measurement ([PRL 128, 182701](https://doi.org/10.1103/PhysRevLett.128.182701)).
+
 **[gamma-ray-experimental-analysis-tools](https://github.com/DrDramas/gamma-ray-experimental-analysis-tools)** — GREAT, a toolkit I built during my postdoc at Argonne for automated peak fitting and γ-γ coincidence analysis on HPGe detector arrays.
 
 **[nuclear-level-scheme-builder](https://github.com/DrDramas/nuclear-level-scheme-builder)** — Numerical optimization for nuclear level scheme construction, also from my Argonne work. The public repo is a self-contained subset; the full project is internal to the collaboration.
-
-**[gadget1-proton-detector-efficiency-model](https://github.com/DrDramas/gadget1-proton-detector-efficiency-model)** — Parallelized C++ Monte Carlo simulation of β-delayed proton decay in a gaseous proportional counter. This is the detector characterization work that underpins my Phys. Rev. Lett. paper on the ³¹Cl decay measurement ([PRL 128, 182701](https://doi.org/10.1103/PhysRevLett.128.182701)).
 
 **[beryllium-11-beta-delayed-proton-search](https://github.com/DrDramas/beryllium-11-beta-delayed-proton-search)** — Machine learning classification of particle radiation by oscilloscope trace shape, applied to a search for rare β-delayed proton decays in ¹¹Be.
 
