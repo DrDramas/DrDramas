@@ -10,7 +10,7 @@ The repositories below are open-source pieces of that research. They're not a co
 
 ### Selected projects
 
-**[gamma-ray-experimental-analysis-tools](https://github.com/DrDramas/gamma-ray-experimental-analysis-tools)** — GREAT a toolkit I built during my postdoc at Argonne for automated peak fitting and γ-γ coincidence analysis on HPGe detector arrays.
+**[gamma-ray-experimental-analysis-tools](https://github.com/DrDramas/gamma-ray-experimental-analysis-tools)** — GREAT, a toolkit I built during my postdoc at Argonne for automated peak fitting and γ-γ coincidence analysis on HPGe detector arrays.
 
 **[nuclear-level-scheme-builder](https://github.com/DrDramas/nuclear-level-scheme-builder)** — Numerical optimization for nuclear level scheme construction, also from my Argonne work. The public repo is a self-contained subset; the full project is internal to the collaboration.
 
