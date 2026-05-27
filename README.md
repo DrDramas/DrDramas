@@ -10,13 +10,13 @@ The repositories below are open-source pieces of that research. They're not a co
 
 ### Selected projects
 
-**[gadget1-proton-detector-efficiency-model](https://github.com/DrDramas/gadget1-proton-detector-efficiency-model)** — Parallelized C++ Monte Carlo simulation of β-delayed proton decay in a gaseous proportional counter. The detector characterization work that underpins my Phys. Rev. Lett. paper on the ³¹Cl decay measurement ([PRL 128, 182701](https://doi.org/10.1103/PhysRevLett.128.182701)).
+**[gadget1-proton-detector-efficiency-model](https://github.com/DrDramas/gadget1-proton-detector-efficiency-model)** — Parallelized C++ Monte Carlo simulation of β-delayed proton decay in a gaseous proportional counter. These simulations were used to evaluate the proton-detection efficiency of GADGET for my Ph.D. thesis experiment involving ³¹Cl β decay. ([PRL 128, 182701](https://doi.org/10.1103/PhysRevLett.128.182701)).
 
-**[gamma-ray-experimental-analysis-tools](https://github.com/DrDramas/gamma-ray-experimental-analysis-tools)** — GREAT, a Python toolkit I built during my postdoc at Argonne for automated peak fitting and γ-γ coincidence analysis on HPGe detector arrays.
+**[gamma-ray-experimental-analysis-tools](https://github.com/DrDramas/gamma-ray-experimental-analysis-tools)** — GREAT: a Python toolkit for analyzing 1D γ-ray spectra and and 2D γ-γ coincidence spectra collected using high-purity Ge detector arrays. Developed in collaboration with the Mathematics & Computer Science division at Argonne National Laboratory towards  automating nuclear level scheme construction.
 
-**[nuclear-level-scheme-builder](https://github.com/DrDramas/nuclear-level-scheme-builder)** — Numerical optimization framework for nuclear level scheme reconstruction, also from my Argonne work. The public repo is a self-contained subset; the full project is internal to the collaboration.
+**[nuclear-level-scheme-builder](https://github.com/DrDramas/nuclear-level-scheme-builder)** — Nuclear level scheme builder tools used for automatically constructing and visualizing γ-ray cascades from evaluated nuclear data. The public repo is a self-contained subset of my broader Argonne postdoc project; the full project is internal to the collaboration, as refinements to the numerical optimization methods are ongoing.
 
-**[beryllium-11-beta-delayed-proton-search](https://github.com/DrDramas/beryllium-11-beta-delayed-proton-search)** — Applied machine learning to classify particle radiation by oscilloscope trace shape in a rare-event search for β-delayed proton decays in ¹¹Be.
+**[beryllium-11-beta-delayed-proton-search](https://github.com/DrDramas/beryllium-11-beta-delayed-proton-search)** — Applied machine learning project for classifying particle radiation by oscilloscope trace shape in a rare-event search for ¹¹Be β-delayed proton decays using GADGET.
 
 ---
 
