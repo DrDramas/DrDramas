@@ -1,6 +1,6 @@
 # Tamas Budner, Ph.D.
 
-Hi. I'm an experimental physicist and scientific software developer, currently working on superconducting microelectronics for qubit control in large-scale quantum computing architectures. My day-to-day spans cryogenic and RF/microwave measurement, low-temperature device characterization, Python-based test automation, and the data analysis and modeling work that sits on top of all of it.
+Hi. I'm an experimental physicist and scientific software developer, who is currently working on superconducting microelectronics for qubit control in large-scale quantum computing architectures. My day-to-day spans cryogenic and RF/microwave measurement, low-temperature device characterization, Python-based test automation, and the data analysis and modeling work that sits on top of all of it.
 
 Prior to my industry R&D work, I spent two years as a postdoc at Argonne National Laboratory and six years at Michigan State University (Ph.D. 2022) developing detector systems, numerical optimization algorithms, and ML-based analysis software for nuclear physics experiments at three accelerator facilities.
 
